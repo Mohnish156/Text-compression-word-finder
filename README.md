@@ -1,3 +1,3 @@
 # Text-compression-word-finder
-University project that required text files to be compressed using algorithms. Words can also be searched for within the text.
+This project uses several algorithms to compress text doucuments and contains a built-in word searching. The algorithms for compression are HuffmanCoding and lempelziv. Search algorithms include Boyer Moore, Brute force, and Knuth-morris-pratt (KMP)
 
